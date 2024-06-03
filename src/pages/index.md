@@ -3,7 +3,7 @@ layout: ../layouts/BaseLayout.astro
 ---
 Maddy Weavers
 
-Deputy Editor, Real Review
+Deputy Editor, Real Review magazine
 
 Recent writing: Madelon Vriesendorp (Apartamento #33), Transparency (MacGuffin #14), Snooker (Real Review #15)
 
