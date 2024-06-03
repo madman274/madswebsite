@@ -1,4 +1,4 @@
 ---
 layout: ../layouts/BaseLayout.astro
 ---
-Maddie's website `:)`
+Maddy's website `:)`

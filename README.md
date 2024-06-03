@@ -1,1 +1,1 @@
-# Maddie's website :)
+# Maddy's website :)
