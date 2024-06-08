@@ -1,6 +1,12 @@
 ---
 layout: ../layouts/BaseLayout.astro
 ---
-Maddy's website `:)`
+Maddy Weavers
 
-[Maddy's instagram](https://www.instagram.com/maddyweavers/)
+Deputy Editor, Real Review magazine
+
+Recent writing: Madelon Vriesendorp (Apartamento #33), Transparency (MacGuffin #14), Snooker (Real Review #15)
+
+Email: maddylweavers@gmail.com
+
+Instagram: [@maddyweavers](https://www.instagram.com/maddyweavers/)
