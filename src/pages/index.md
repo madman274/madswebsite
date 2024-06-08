@@ -5,7 +5,7 @@ Maddy Weavers
 
 Deputy Editor, Real Review magazine
 
-Recent writing: Madelon Vriesendorp (Apartamento #33), Transparency (MacGuffin #14), Snooker (Real Review #15)
+Recent writing: Madelon Vriesendorp ([Apartamento #33](https://www.apartamentomagazine.com/)), Transparency ([MacGuffin #14](https://www.macguffinmagazine.com/)), Snooker ([Real Review #15](https://real-review.org/))
 
 Email: maddylweavers@gmail.com
 
