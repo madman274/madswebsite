@@ -1,12 +1,12 @@
 ---
 layout: ../layouts/BaseLayout.astro
 ---
-Maddy Weavers
+Sean Mansfield
 
-Deputy Editor, Real Review magazine
+Architectural Designer
 
-Recent writing: Madelon Vriesendorp ([Apartamento #33](https://www.apartamentomagazine.com/)), Transparency ([MacGuffin #14](https://www.macguffinmagazine.com/)), Snooker ([Real Review #15](https://real-review.org/))
+Currently: Architectural Assistant ([William Smalley RIBA](https://williamsmalley.com)); Freelance Designer ([Studio 1009](https://www.10-09.com))
 
-Email: maddylweavers@gmail.com
+Recently: Talia Byre SS24 pop-up; [MA Architecture RCA (2023)](https://2023.rca.ac.uk/students/sean-mansfield/)
 
-Instagram: [@maddyweavers](https://www.instagram.com/maddyweavers/)
+sean.e.mansfield@gmail.com 
