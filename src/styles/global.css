@@ -5,21 +5,21 @@ html {
 body {
     /* margin: 0 auto; */
     /* width: 100%; */
-    max-width: 1100px;
+    max-width: 1170px;
     padding: 2rem;
     /* line-height: 1.6; */
-    font-size: 15px
+    font-size: 16px
 }
 
 h2 {
     font-weight:normal;
-    font-size: 15px;
+    font-size: 16px;
     margin: 0;
     margin-bottom: 8px;
 }
 
 p {
-    font-size: 15px;;
+    font-size: 16px;;
     margin: 0;
     margin-bottom: 18px;
 }
