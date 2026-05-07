@@ -1,12 +1,5 @@
 ---
 layout: ../layouts/BaseLayout.astro
 ---
-Maddy Weavers
-
-Deputy Editor, Real Review magazine
-
-Recent writing: Madelon Vriesendorp (Apartamento #33), Transparency (MacGuffin #14), Snooker (Real Review #15)
-
-Email: maddylweavers@gmail.com
-
-Instagram: [@maddyweavers](https://www.instagram.com/maddyweavers/)
+Maddy Weavers is a writer and editor based in London. She trained as an architect and worked in architectural practice before moving into criticism and publishing. Since 2021 Maddy has been deputy editor of [Real Review](https://real-review.org); she has held editorial roles at [Apartamento](https://www.apartamentomagazine.com/archive/madelon-vriesendorp/) and [Drawing Matter](https://drawingmatter.org). Her writing on architecture and culture has featured in publications including [AA Files](https://www.aaschool.ac.uk/public/publications), [MacGuffin](https://www.macguffinmagazine.com/issues/macguffin-the-stitch), and [The Architectural Review](https://www.architectural-review.com). Maddy is currently collaborating with the [Guggenheim Museum Bilbao](https://www.guggenheim-bilbao.eus/en/the-collection) and regularly collaborates with [Bofill Taller de Arquitectura](https://www.bofill.com). She is working on the first monograph dedicated to a single building by Bofill, which will be published in 2026. 
+For commissions or enquiries please contact maddylweavers@gmail.com.
