@@ -1,11 +1,11 @@
 html {
-    font-family: "Times New Roman", Times, serif;
+    font-family: sans-serif;
 }
 
 body {
     /* margin: 0 auto; */
     /* width: 100%; */
-    max-width: 1000px;
+    max-width: 1085px;
     padding: 2rem;
     /* line-height: 1.8; */
     font-size: 15px
