@@ -1,7 +1,7 @@
 ---
 layout: ../layouts/BaseLayout.astro
 ---
-[Maddy Weavers](https://www.instagram.com/maddyweavers/) is a freelance editor and writer. She is the deputy editor of Real Review (2023–) and edited for Apartamento (2021–23) and Drawing Matter (2020–21). Her work also includes essays, interviews, copywriting and editing, editorial direction, branding and strategic consultancy for organisations and publications in the cultural sector. She was born in Reading and studied Architecture at the University of Bath. She lives in London. 
+[Maddy Weavers](https://www.instagram.com/maddyweavers/) is a freelance editor and writer. She is the deputy editor of Real Review (2023–) and edited for Apartamento (2021–23) and Drawing Matter (2020–21). Her work also includes essays, interviews, copywriting and editing, editorial direction, branding and strategic consultancy for organisations and publications in the cultural sector. She lives in London, was born in Reading and studied architecture at the University of Bath.
 
 Selected work:\
 Writing for 6a architects for [El Croquis](https://elcroquis.es/en/products/236-6a?srsltid=AYCX9vIBgwcGtzyl-BaDFfbOrcmBysgmREMSaa1s8rn7EFjv1FeqKiyN)\
